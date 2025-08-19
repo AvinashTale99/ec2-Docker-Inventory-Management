@@ -129,18 +129,7 @@
   - Pull with `--allow-unrelated-histories` then push.  
   - Or force push to overwrite.  
 
----
 
-## 🚀 Workflow Diagram
-
-```mermaid
-flowchart TD
-    A[👨‍💻 Local Development<br>(Flask App)] --> B[🐳 Docker<br>Build & Run Image]
-    B --> C[🧩 Docker Compose<br>Multi-container Setup]
-    C --> D[📂 GitHub Repo<br>Code + CI/CD]
-    D --> E[🚀 Jenkins / Terraform / K8s<br>Deployment]
-```
----
 ---
 
 
