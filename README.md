@@ -141,6 +141,66 @@ flowchart TD
     D --> E[🚀 Jenkins / Terraform / K8s<br>Deployment]
 ```
 
+## 🔧 Full Command Reference
+
+Below are the commands used throughout the setup, deployment, and troubleshooting process:
+
+```bash
+ls
+sudo yum update -y
+sudo yum install python -y
+sudo yum install pip
+sudo yum install git -y
+pip install flask
+flask --version
+git clone https://github.com/atulkamble/Inventory-Manager.git4
+git clone https://github.com/atulkamble/Inventory-Manager.git
+ls
+cd Inventory-Manager/
+ls
+cd app
+ls
+cat main.py
+python3 main.py
+clear
+cd ..
+ls
+cat Dockerfile
+sudo yum install docker -y
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo systemctl status docker
+sudo docker login
+sudo docker container ls
+sudo docker build
+ls
+sudo docker build -t avinashtale99/Inventory-Management
+sudo docker build -t avinashtale99/Inventory-Management .
+sudo docker build -t avinashtale99/inventory-management .
+sudo docker images
+sudo docker push avinashtale99/inventory-management
+sudo docker run -d -p 5000:5000
+sudo docker run -d -p 5000:5000 avinashtale99/inventory-management
+sudo docker logs
+bab571
+sudo docker logs bab571
+sudo docker container ls
+sudo docker container stop bab571fe30a8
+sudo docker container start bab571fe30a8
+sudo mkdir -p /usr/local/lib/docker/cli-plugins
+sudo curl -SL https://github.com/docker/compose/releases/download/v2.27.0/docker-compose-linux-x86_64 -o /usr/local/lib/docker/cli-plugins/docker-compose
+sudo chmod +x /usr/local/lib/docker/cli-plugins/docker-compose
+docker compose version
+clear
+git pull
+ls
+cat docker-compose.yml
+sudo docker container stop bab571fe30a8
+docker-compose up --build
+sudo docker-compose up --build
+sudo docker compose up --build
+history
+
 ---
 
 ## Author
