@@ -1,4 +1,3 @@
-Great choice—I'll provide a full, downloadable `README.md` tailored to your repository:
 
 **GitHub Repository**:
 [https://github.com/AvinashTale99/ec2-Docker-Inventory-Management.git](https://github.com/AvinashTale99/ec2-Docker-Inventory-Management.git)
