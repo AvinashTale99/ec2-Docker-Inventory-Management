@@ -296,4 +296,7 @@ ec2-Docker-Inventory-Management/
 
 Happy building!
 
+<img width="1901" height="724" alt="image" src="https://github.com/user-attachments/assets/964a8215-d9cc-47a7-9ad1-4297d72ba3a9" />
+
+
 
