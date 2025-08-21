@@ -8,7 +8,6 @@ Here's your comprehensive `README.md`, including:
 * Installation script runner (`jenkins-install.sh`)
 * Detailed EC2 and IAM setup steps
 * Jenkins pipeline configuration and the `Jenkinsfile`
-* How to run it all as a zip-download
 
 ---
 
@@ -299,8 +298,4 @@ Happy building!
 
 ```
 
----
-
-
-::contentReference[oaicite:0]{index=0}
 ```
