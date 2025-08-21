@@ -296,6 +296,4 @@ ec2-Docker-Inventory-Management/
 
 Happy building!
 
-```
 
-```
